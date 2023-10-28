@@ -42,12 +42,12 @@ p.texto2{
     color: white;
 }
 main#imagem2{
-    background: black url(../imagens/imagem2.jpg) center center no-repeat fixed;
+    background: black url(../imagens/background001.jpg) center center no-repeat fixed;
     background-size: cover;
     padding: 10px;
 }
 main#imagem1{
-    background: black url(../imagens/imagem1.jpg) center center no-repeat fixed;
+    background: black url(../imagens/background002.jpg) center center no-repeat fixed;
     background-size: cover;
     padding: 10px;
 }
