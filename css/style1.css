@@ -24,18 +24,18 @@ header{
     background-color: black;
     color: white;
     text-align: center;
-    font-family: var(--fonte2);
 }
 
 Header > h1{
     padding-top: 50px;
     font-variant: small-caps;
     font-size: 10vh;
+    font-family: var(--fonte2);
 }
 
 header > h2{
     padding-bottom: 50px;
-    font-size: smaller;
+    font-size: 15px;
 }
 
 a{
